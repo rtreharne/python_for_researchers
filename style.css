@@ -1,0 +1,53 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #4c4c4c;
+}
+
+h1 {
+  font-family: 'Alfa Slab One', cursive;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+.vcenter {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin: 0px;
+  padding: 0 10%;}
+
+.center {
+  text-align: center;
+}
+
+.banner {
+  background: #6b516b;
+  color: white;
+}
+
+.banner a {
+  color: white;
+}
+
+button.btn.btn-primary {
+  background-color: #cca5ce;
+  border-color: #cca5ce;
+  color: #4f3c50
+}
+
+section img {
+  width: 100%;
+  padding: 5%;
+}
+
+h3 {
+  padding: 10px 0px;
+}
+
+@media only screen and (max-width: 800px) {
+  .vcenter {
+    padding: 5% 10%;
+  }
+}
