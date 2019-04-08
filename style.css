@@ -62,7 +62,7 @@ h3 {
   margin: 10px;
 }
 .button-box {
-  margin: 10px;
+  margin: 20px;
 }
 .button-box a {
   outline: none;
@@ -79,9 +79,6 @@ h3 {
   text-decoration: none;
 }
 
-.social-box {
-  width: 90%;
-}
 
 
 @media only screen and (max-width: 800px) {
@@ -95,6 +92,6 @@ h3 {
   .col-md-12, .col-md-6, .col-md-4, .col-md-5, .col-md-7, .colmd-3 {
     padding-left: 0px;
     padding-right: 0px;
-    width: 90%;
+    width: 100%;
   }
 }
