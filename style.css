@@ -94,4 +94,7 @@ h3 {
     padding-left: 0px;
     padding-right: 0px;
   }
+  h1 {
+    font-size: 2em;
+  }
 }
