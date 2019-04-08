@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="105mm"
+   height="148mm"
+   viewBox="0 0 105 148"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="a6_2.svg"
+   inkscape:export-filename="/home/treharne/Documents/python_for_postgrads/promo/a3/a6_2.png"
+   inkscape:export-xdpi="300.01001"
+   inkscape:export-ydpi="300.01001">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path931"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64"
+     inkscape:cx="47.27852"
+     inkscape:cy="340.74729"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-28.318684,25.424806"
+       orientation="0,1"
+       id="guide2246"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-149)">
+    <rect
+       y="131.5244"
+       x="-196.83893"
+       height="140.04651"
+       width="494.98315"
+       id="rect2234"
+       style="opacity:1;fill:#6a466a;fill-opacity:1;stroke:none;stroke-width:0.66525102;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffa8;stroke-width:0.21110314;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect929"
+       width="110.78889"
+       height="153.78889"
+       x="-2.8944485"
+       y="140.10556"
+       inkscape:export-xdpi="300.01001"
+       inkscape:export-ydpi="300.01001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.41965437px;line-height:1.25;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29033864"
+       x="5.9961481"
+       y="152.59782"
+       id="text909"><tspan
+         sodipodi:role="line"
+         x="5.9961481"
+         y="152.59782"
+         style="font-size:3.52777767px;fill:#ffffff;stroke-width:0.29033864"
+         id="tspan915">After attending this workshop</tspan><tspan
+         sodipodi:role="line"
+         x="5.9961481"
+         y="159.37239"
+         style="fill:#ffffff;stroke-width:0.29033864"
+         id="tspan2250">you will be able to ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80358338px;line-height:1.25;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15019196"
+       x="5.8057837"
+       y="166.3562"
+       id="text913"><tspan
+         sodipodi:role="line"
+         x="5.8057837"
+         y="166.3562"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:-0.11177314px;word-spacing:-0.17174898px;fill:#ffffff;stroke-width:0.15019196"
+         id="tspan2257">Read, write and manipulate your own large datasets using Python.</tspan><tspan
+         sodipodi:role="line"
+         x="5.8057837"
+         y="169.86069"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:-0.11177314px;word-spacing:-0.17174898px;fill:#ffffff;stroke-width:0.15019196"
+         id="tspan2263" /><tspan
+         sodipodi:role="line"
+         x="5.8057837"
+         y="173.36516"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:-0.11177314px;word-spacing:-0.17174898px;fill:#ffffff;stroke-width:0.15019196"
+         id="tspan2335" /><tspan
+         sodipodi:role="line"
+         x="5.8057837"
+         y="176.86964"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:-0.11177314px;word-spacing:-0.17174898px;fill:#ffffff;stroke-width:0.15019196"
+         id="tspan2269" /><tspan
+         sodipodi:role="line"
+         x="5.8057837"
+         y="180.37411"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:-0.11177314px;word-spacing:-0.17174898px;fill:#ffffff;stroke-width:0.15019196"
+         id="tspan2271" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.34089279px;line-height:1.25;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.60754788"
+       x="115.7212"
+       y="150.34052"
+       id="text1280"><tspan
+         sodipodi:role="line"
+         id="tspan1278"
+         x="115.7212"
+         y="150.34052"
+         style="fill:#333333;stroke-width:0.60754788">Sat 6 July 2019</tspan></text>
+    <text
+       id="text1288"
+       y="204.06345"
+       x="115.75161"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.12014961px;line-height:1.25;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.27429375"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Montserrat Medium';-inkscape-font-specification:'Montserrat Medium, ';fill:#333333;stroke-width:0.27429375"
+         y="204.06345"
+         x="115.75161"
+         sodipodi:role="line"
+         id="tspan1318">Early Bird ticket: £100* (deadline: <tspan
+   style="font-weight:bold;stroke-width:0.27429375"
+   id="tspan1295">1 June 2019)</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Montserrat Medium';-inkscape-font-specification:'Montserrat Medium, ';fill:#333333;stroke-width:0.27429375"
+         y="210.6548"
+         x="115.75161"
+         sodipodi:role="line"
+         id="tspan1321">Standard ticket<tspan
+   style="letter-spacing:0.02116669px"
+   id="tspan1327"
+   dx="0 0 0 -0.51999998">:  £150*</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:'Montserrat Medium';-inkscape-font-specification:'Montserrat Medium, ';fill:#333333;stroke-width:0.27429375"
+         y="217.05499"
+         x="115.75161"
+         sodipodi:role="line"
+         id="tspan1325">*All prices Exc. VAT</tspan></text>
+    <text
+       id="text1299"
+       y="193.42561"
+       x="115.73581"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.61331701px;line-height:1.25;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.40785629"
+       xml:space="preserve"><tspan
+         style="fill:#333333;stroke-width:0.40785629"
+         y="193.42561"
+         x="115.73581"
+         id="tspan1297"
+         sodipodi:role="line">www.pythonforresearchers.com</tspan></text>
+    <text
+       id="text1307"
+       y="162.04282"
+       x="115.81918"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.23047543px;line-height:1.25;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.38734692"
+       xml:space="preserve"><tspan
+         id="tspan1305"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Montserrat Medium';-inkscape-font-specification:'Montserrat Medium, ';fill:#333333;stroke-width:0.38734692"
+         y="162.04282"
+         x="115.81918"
+         sodipodi:role="line">Aparthotel Adagio. Liverpool City Centre.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.23047543px;line-height:1.25;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.38734692"
+       x="115.05274"
+       y="181.09271"
+       id="text1316"><tspan
+         sodipodi:role="line"
+         x="115.05274"
+         y="181.09271"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Montserrat Medium';-inkscape-font-specification:'Montserrat Medium, ';fill:#333333;stroke-width:0.38734692"
+         id="tspan1314">Register at</tspan></text>
+    <rect
+       style="opacity:1;fill:#fcf9fc;fill-opacity:1;stroke:none;stroke-width:0.52149731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1329"
+       width="494.98315"
+       height="86.060783"
+       x="-43.516403"
+       y="271.64151" />
+    <text
+       id="text1349"
+       y="279.68149"
+       x="41.020309"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.68156314px;line-height:1.25;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.14365518"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49824548px;font-family:'Montserrat Medium';-inkscape-font-specification:'Montserrat Medium, ';fill:#333333;stroke-width:0.14365518"
+         y="279.68149"
+         x="41.020309"
+         sodipodi:role="line"
+         id="tspan1356">www.pythonforresearchers.com</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Montserrat Medium';-inkscape-font-specification:'Montserrat Medium, ';fill:#333333;stroke-width:0.14365518"
+         y="283.30368"
+         x="41.020309"
+         sodipodi:role="line"
+         id="tspan1358">info@pythonforresearchers.com </tspan></text>
+    <path
+       style="fill:#000000;stroke-width:0.00426387"
+       d=""
+       id="path2412"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text1487"
+       y="284.51184"
+       x="7.2022266"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.24614596px;line-height:1.25;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.12032927;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#333333;stroke-width:0.12032927;"
+         y="284.51184"
+         x="7.2022266"
+         id="tspan1485"
+         sodipodi:role="line">@py4res</tspan></text>
+    <text
+       id="text1487-3"
+       y="284.5433"
+       x="21.215012"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.24614596px;line-height:1.25;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.12032927;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#333333;stroke-width:0.12032927;"
+         y="284.5433"
+         x="21.215012"
+         id="tspan1485-6"
+         sodipodi:role="line">/py4res</tspan></text>
+    <text
+       id="text2277"
+       y="187.52289"
+       x="5.9734454"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.41965437px;line-height:1.25;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29033864"
+       xml:space="preserve"><tspan
+         id="tspan2275"
+         style="fill:#ffffff;stroke-width:0.29033864"
+         y="187.52289"
+         x="5.9734454"
+         sodipodi:role="line">Workshop Outline ...</tspan></text>
+    <text
+       id="text2299"
+       y="194.71811"
+       x="6.041625"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.14375114px;line-height:1.25;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16841525"
+       xml:space="preserve"><tspan
+         id="tspan2283"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="194.71811"
+         x="6.041625"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';stroke-width:0.16841525"
+   id="tspan2301">1. Install and Setup:</tspan> Installing Python. How do I run a </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="198.76518"
+         x="6.041625"
+         sodipodi:role="line"
+         id="tspan2341">Python script? Jupyter Notebooks. </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="202.69487"
+         x="6.041625"
+         sodipodi:role="line"
+         id="tspan2307" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="206.74193"
+         x="6.041625"
+         sodipodi:role="line"
+         id="tspan2309"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';stroke-width:0.16841525"
+   id="tspan2313">2. Handling Data:</tspan> Reading and writing data. Dealing</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="210.789"
+         x="6.041625"
+         sodipodi:role="line"
+         id="tspan2311">with multiple files. Introduction to Pandas.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="214.71869"
+         x="6.041625"
+         sodipodi:role="line"
+         id="tspan2315" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="218.76575"
+         x="6.041625"
+         sodipodi:role="line"
+         id="tspan2317"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';stroke-width:0.16841525"
+   id="tspan2323">3. Visualisation:</tspan> Introduction to Matplotlib. Scatterplots,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="222.81282"
+         x="6.041625"
+         sodipodi:role="line"
+         id="tspan2319">boxplots and histograms. Subplots, insets and trendlines.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="226.85988"
+         x="6.041625"
+         sodipodi:role="line"
+         id="tspan2321">Creating paper and thesis ready figures.</tspan><tspan
+         id="tspan2285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="230.78958"
+         x="6.041625"
+         sodipodi:role="line" /><tspan
+         id="tspan2291"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="234.83664"
+         x="6.041625"
+         sodipodi:role="line"><tspan
+   style="font-weight:bold"
+   id="tspan2350">4. Advanced Pandas: </tspan>Filtering and formatting. Merging</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="238.88371"
+         x="6.041625"
+         sodipodi:role="line"
+         id="tspan2348">and concatenating. Get data straight from the web.</tspan><tspan
+         id="tspan2293"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="242.8134"
+         x="6.041625"
+         sodipodi:role="line"></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="246.86046"
+         x="6.041625"
+         sodipodi:role="line"
+         id="tspan2352"><tspan
+   style="font-weight:bold"
+   id="tspan2356">5. Putting it all together:</tspan> Step-by-step examples using</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="250.90753"
+         x="6.041625"
+         sodipodi:role="line"
+         id="tspan2354">authentic datasets. Doing cool stuff with YOUR data.</tspan><tspan
+         id="tspan2295"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="254.83722"
+         x="6.041625"
+         sodipodi:role="line" /><tspan
+         id="tspan2297"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="258.88428"
+         x="6.041625"
+         sodipodi:role="line"><tspan
+   style="font-weight:bold"
+   id="tspan2360">6. Pro tools for research: </tspan>Git and GitHub. Plotly (interactive</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.16841525"
+         y="262.93137"
+         x="6.041625"
+         sodipodi:role="line"
+         id="tspan2358">graphs). Python for Latex.</tspan></text>
+    <text
+       id="text2377"
+       y="171.26326"
+       x="5.9291415"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80358338px;line-height:1.25;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15019196"
+       xml:space="preserve"><tspan
+         id="tspan2375"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:-0.11177314px;word-spacing:-0.17174898px;fill:#ffffff;stroke-width:0.15019196"
+         y="171.26326"
+         x="5.9291415"
+         sodipodi:role="line">Create high quality graphs and figures for your own publications.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:-0.11177314px;word-spacing:-0.17174898px;fill:#ffffff;stroke-width:0.15019196"
+         y="174.76775"
+         x="5.9291415"
+         sodipodi:role="line"
+         id="tspan2393" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:-0.11177314px;word-spacing:-0.17174898px;fill:#ffffff;stroke-width:0.15019196"
+         y="178.27222"
+         x="5.9291415"
+         sodipodi:role="line"
+         id="tspan2395" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.80358338px;line-height:1.25;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15019196"
+       x="5.8057837"
+       y="176.15424"
+       id="text2403"><tspan
+         id="tspan2401"
+         sodipodi:role="line"
+         x="5.8057837"
+         y="176.15424"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:-0.11177314px;word-spacing:-0.17174898px;fill:#ffffff;stroke-width:0.15019196">Build tools to automate your analysis and make life easier.</tspan></text>
+    <image
+       y="274.83218"
+       x="8.218111"
+       id="image2555"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABpcAAAaXCAYAAACT+jYAAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA
+B3RJTUUH4wQHESIMh7OeuQAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAACAA
+SURBVHja7N3pURxLFgZQRoFD7b8RzyTNj3kMINFQSy53OccBRZSq75JfZ/PyAgAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAACV/McjAAAAAGZ5PB6/d/3b//zzj3MPAIAJDFkAAADAYTvDopkEUQAAxxmc
+AAAAgE+qBkh3CJ8AAN4ZjAAAAKAhAdIYQicAoCMDEAAAABQnSFpL4AQAVGfYAQAAgEIESTEJnACA
+Sgw2AAAAkJgwKS+BEwCQlSEGAAAAEhEm1SVsAgCyMLQAAABAYMKkngRNAEBkBhUAAAAIRqDEn4RN
+AEAkBhMAAADYTJjEGYImAGA3wwgAAABsIFBiBEETALCDAQQAAAAWESgxk6AJAFjF0AEAAAATCZTY
+QdAEAMxk0AAAAIAJhEpEIWgCAEYzXAAAAMAgAiWiEzQBACMYKAAAAOAGgRIZCZkAgDsMEgAAAHCB
+UIkqBE0Qr7f4XALRKVIAAABwglCJqhxmQ5ze4vMIRKdIAQAAwA8ESnTiUBv29hifQSADhQoAAACe
+ECrRnUNuWN9jfO6ADBQqAAAA+INQCT5z2A3reozPG5CBQgUAAAD/EirB9xx6w9we4zMGZKFYAQAA
+0J5QCc5xAA5z+ozPFpCFYgUAAEBbQiW4x0E4jO0zPlNAFooVAAAA7QiVYCwH4nC/z/gcAZkoWAAA
+ALQhVIK5HI6jz1zvMz4/QCYKFgAAAOUJlWAth+ToMz43QG0KFgAAAGUJlWAvh+XoMz4rQE2KFgAA
+AOUIlSAWB+foNT4jQC2KFgAAAGUIlSAuh+foNT4bQB0KFwAAACUIliAHB+noMz4TQH4KFwAAAKkJ
+lSAnB+roMz4LQF4KFwAAACkJlSA/h+p07zM+A0BWihcAAADpCJagFgfsdO0x3n0gK8ULAACANIRK
+UJuDdjr1GO87kJkCBgAAQHhCJejDgTtdeox3HchMAQMAACA0wRL05OCd6r3FOw5kpoABAAAQklAJ
+cPhO1d7i3QayU8QAAAAIR7AEfOQgnmp9xTsNZKeIAQAAEIZQCXjGYTxV+op3GahAIQMAACAEwRJw
+hIN5svcU7zBQgUIGAADAVkIl4CyH82TtKd5doArFDCDwMGzoBAC6zD0AV9iZyNZLvLNAFYoZQPCh
+2OAJAHSZewCusDPpI95VgPUUNIAEw7EBFACoPu8A3GFn0ke8pwBrvXoEAAZkAADzDlChtji81z8A
+WEPDBUgyLFuSAIDKsw7AKHYnvcN7CTCfogaQaGA2jAIAVeccgJHsTvqGdxJgLkUNINnwbCAFACrO
+OAAz2J/0DO8hwBwKG0DCAdpgCgBUnHEAZrA/6RXeQYDxFDaApMO04RQAqDTbAMxkf9IrvHsAY716
+BAAGagAAsw1QvTY55NcjABhHUwVIPFxbjgCAKnMNwCr2KP3BuwZwnwIHkHzANqwCAFXmGoBV7FH6
+gvcM4B4FDqDAsG1gBQAqzDQAK9mj9APvF8B1ihxAkaHb4AoAZJ9nAFazR+kF3i2AaxQ5gEIDuOEV
+AMg8ywDsYI/SA7xTAOcpdADFBnFDLACQeZYB2MUupfZ7jwCOe/UIAAAAOMrhIlC5vgkG1HwAjtEw
+AQoO5xYiACDrHAOwW/d9Sq337gAcoeABFB3UDbUAQMYZBiCCbvuUGu+9AThLwQMoPLAbbAGAjDMM
+QATV9ym13fsCcIeiB1B8eDfgAgDZ5heAKCrtU+q5dwVgJEUPoMEgb8gFALLNLwBRZN6n1HHvCMAs
+Ch9Ak6HesAsAZJpdACLJtE+p394NgBUUP4BGw72hFwDINLsARBJ1n1KzvRcAOyh+AM2GfYMvAJBh
+ZgGIKMI+pVZ7HwAiePUIAAz+AABmFoBjtXJ1oKA+AxCRdB2g4SLg21UAQPR5BSCymTuVmuwdAMhA
+EQSYLOpiYBAGAKLPKwCRjdqp1OC+//cAmSmEABNFXxIMxACAQ02AtTuVutvz/x2gGoUQYKIMS4Oh
+GADMKgDM2anU2V7/3wCdKIYAk2RaIgzHAGBWAeDeTqWu9vm/9hQAhEsA02RbLAzIAGBOAQDszQBH
+/PIIAHh5ccgEAHo+APCMYAngM+ESwARZD20cNgGAGQUAAOAnwiUAPnHoBAB6PADwzq0lgL8pjACD
+VTm4MTwDgPkEALqzGwN8zc0lAL7kEAoA9HQAAICvCJcAeMphFADo5QDQlVtLAM8JlwAGcoADAJhL
+ACA/wRLA94RLAHzLwRQAAACdCJYAfiZcAuBHAiYA0LsBAADeSOEBBulwiOPbWwBgJgEAey8Abi4B
+cJjDKgDQqwGgKsESwHHCJQBOcWgFAHo0AFQjWAI4R7gEMEC3wxyHVwCgNwMAAH0JlwC4xCEWAAAA
+Fbi1BHCecAmAywRMAKAfA0BmgiWAaxRPgJsc6BjGAcAcAgB2WYBO3FwC4DYHWwCg/wIAAH0IlwAY
+wgEXAAAAWbi1BHCPIgpwg0DFgA4AZhAAsLcCdOPmEgBDOewCAL0WAKISLAGMIVwCYDiHXgCgxwJA
+NIIlgHGESwBM4fALAAAAAGqS1gNcJDw5xjfDAMDsAQB2U4Ba3FwCYCoHYQCgnwLAToIlgPGESwBM
+50AMAPRRANhBsAQwh3AJ4AKHPJ4ZAAAAsQmWAOYRLgGwjIAJAPROAFhBsAQwl3AJgKUckgGAngkA
+MwmWAOYTLgGwnMMyAAAAZhAsAawhXAI4STDiOQKAPgkAAHQmyQc4yWHPeL5ZBgBmDQCwWwLk4eYS
+ANs5RAMAAOAOwRLAWsIlAEIQMAGAfggAVwiWANYTLgEQhgM1APRBAOAMwRLAHsIlgBMc+njGAAAA
+xCBYAthHAQY4QfBhSQAAMwYA2BkrzyKeLXCEm0sAhB9sAQAA4I3wY+zubf8GrlCIAU4OXZ6CpQEA
+zBcAYEesOH94vsBRigXAzcELywMAmC8AwG6Yfe7wfIEz/CweAOkHYAAAAGoTfNzbqe3VwGiKMsCJ
+YcxTsEwAgNkCAOyC1eYMzxg4y80lAMoOxwAAAOQm9Di/NwuWgBVePQIAsg3Khl8AqvQzAOA5e5+5
+AohLgQYwqFk0AMBcAQD2vYYzhecMXOXmEgCpB2mDMAAAQC32vO/3YM8ZiEABAVg8vGHxAMBMAQDY
+7XbOD541cNcvjwAAgzYAAAA7CTu+3nXtu0BUijbAwYHOU7CMAIB5AgDsctnnBc8bGMHfXAKg1BBu
+SAYAAMjDDrf2CyieNzCKYgIQaMjDsAyAeQIA7G5mA88ciM7NJQDKDumGZgAAgJg67mu7v2xiRwZG
+UlAAgg9/GJ4BMEsAgB3NHOC5A5G4uQRA+UHeEA0AALBfl90s2hdL7MTADMIlAFoM9oZpAHb1IE8B
+AOoHHHo+0I1wCYAWBEwAAAB7VN3FMgRK9mBgFsUFoMCwiMEaADMEANjB9Hb7L7CKm0sAtPK2DBiy
+AQAA5qmyc2X9soidF5hNkQEoOERi2AbADAEAdq2+Pdy+C8zm5hIAbfk7TAAAAGNl3LGqfSnEngus
+oNAANBowMXgDYH4AgO57VeVebb8FVnFzCYD23GACAAC4Lvo+1eWLH/ZaYCXhEgB8WDYM4wCM6CcA
+0EXEHUo/BphPuAQAfywhAiYAAIDvRdqbhEm+KAmsp+gAGFAxmANgbgCANPuSnmt/BfZzcwkAniwr
+BnQAAIB3O3YkQVK8/xOAlxfhEgD8uMQY1gE42jMAoKoVe5F+CpCHcAkADiw4AiYAAKCjWbuQICnu
+/w3AEQoQgEEXgzsA5gYAmLID6ZH2U6AmRQjAAIwBHgAzAwDc3nv0RHsp0IefxQOAC8uSYR4AAKjo
+p11HgBT7/wdgFeESAFzg7zAB8NYPPAUAKvi43+hvAPzEoRjAE4Zpzi5gAJgXAADsn0AHvzwCALjO
+oSKAHgAAMJtgCYhGuAQANz0ej98OGAEAAJhBsAREJFwCgEEETAAAAIwkWAKiEi4BwEACJgD1HgBg
+BMESEJlwCQAG8zN5AAAAAFQmXAKASQRMAAAAXOHWEhCdcAkAJhIwAajtAABnCJaADIRLADCZQ0gA
+AACOECwBWShWAE8IBLAoAGA+AADsiwB/c3MJABZyKAkAAMCfBEtANsIlAFhMwAQAAMAbwRKQkXAJ
+ADZ4PB6/hUwA+Wq3pwAAACBcAoCtHFQCAAD05dYSkJVwCQA2c4sJAACgH8ESkJlwCQCCEDABqNEA
+QA+CJSA74RIABOLwEgAAoDbBElCBcAkAgvEzeQAAADUJloAqhEsAEJSACUA9BgDqECwBlQiXACAw
+t5gAAADyEywB1QiXACABARMAAEBOgiWgIuESACQhYAIAAAAgAqk5wBMO8onMN98AzAMAgN0NYBc3
+lwAgIYedAAAAsQmWgMqESwCQ1OPx+C1kAgAAiEewBFQnXAKA5ARMAOorABCHYAnoQLgEAAW4xQQA
+ALCfYAnoQrgEAIUImAAAAPYQLAGdCJcAoBi3mAAAANYSLAHdCJcAoCgBE4AaCgDMJ1gCOhIuAUBh
+DkcBAADmESwBXQmXAKA4P5MHAAAwnmAJ6Ey4BABNCJkAAADGECwB3QmXAKAZAROAOgkAXCdYAnh5
+UQgBvuFwCUsRgP4PAGCHAvjMzSUAaMwBKgAAwDGCJYB3wiUAaM7fYgIAAPieYAngM+ESAPDy8uIW
+E4BaCAB8RbAE8DfhEgDwf24xAQAAvBMsAXxNuAQA/EXABAAAdCdYAnhOuAQAfMktJgAAoCvBEsD3
+hEsAwLeETAAAQCeCJYCfCZcAgEMETIA6BwBUJ1gCOEa4BAAc5hYTAABQlWAJ4DjhEoDBEk4TMAEA
+APZ/gL6ESwDAJW4xAQAAFQiWAM4TLgEAtwiZAACArARLANcIlwCAIQRMgBoGAGQiWAK4TrgEAAzj
+FhMAAJCBYAngHuESADCckAkAAIhKsARwn3AJAJhGwAQAAEQiWAIYQzEFOMABOVjiAL0eALCTAPA/
+rx4BALDC28GthQ4AAFjJDgIwnp/FAwCW8veYAACAVQRLAHMIlwCALQRMgHoEAMwkWAKYR7gEAGzj
+FhMAADCDYAlgLuESALCdkAkAABhFsAQwn0ILcJCDb7AMAno8AGCXAMDNJQAgIAe9AADAWYIlgHWE
+SwBASH4qDwAAOEqwBLDWq0cAAET2FjBZFgEAgD/ZEwD2cHMJAEjBTSYAAOAjwRLAPgowwAkOtsEi
+CejtAIB9AKA7N5cAgJTcZAIAgJ4ESwD7CZcAgNQETAAA0IdgCSAG4RIAkJ5bTAAAUJ9gCSCOV48A
+AKjiLWCydAIAQB3me4B4FGaAk9yOAEsooK8DAGZ6gM78LB4AUJafywMAgLwESwBxCZcAgPKETAAA
+kItgCSA2f3MJAGjD32QCAIDYzOoAOSjWABe4AQEWV0BPBwDM5wBd+Vk8AKAtP5cHAAAxCJYAclG0
+AS5wGA0WWkA/BwDM4QBd+ZtLAAD/8jeZAABgHXM3QF4KOMBFvu0Mll1ALwcAzNoAHfmbSwAAT/ib
+TAAAMJ5gCSA/P4sHAPADP5cHAAD3macB6nBzCQDgIDeZAADgGsESQC2KOsANDpnBguwpgD4OAJib
+Abrxs3gAABd9PJi2MAMAwN/MyQA1CZcAAAbwd5kAAOCduRigNkUe4CY/qQNYpkEPBwDMwgCduLkE
+ADCBm0wAAHRj9gXo45dHAAAwz+Px+O12BAAA1QmWAHpxcwkAYIGPAZPFGwCASsy3AP24uQRgiAYW
+c5sJAAAAyEy4BACwiZAJAAAAyMjP4gEAbOYn8wAAAIBM3FwCGMBhMDCK20wAAABAdMIlAICAhEwA
+AABAVH4WDwAgMD+ZBwAAAETj5hLAIA59gdncZgIAAAAicHMJACAZt5kAAACAnf7L3r0lt7HrABRV
+pc6Eev6D8/3ITWLLkgxJzQeAtYagVIUgN9n2cgkAIDGvmQAAAIDZ3HQFOJlDXmA1r5nAmg0A5k8A
+RvJyCQCgGK+ZAAAAgJHcKgAYwKEusBu3ScF6DQBmTQDO4uUSAEADXjMBAAAAZ/nPTwAA0MfnwOSG
+KQAAAPAKBwoAg3ghAGQiNGGtBgDMkgBE+SweAAA+mwcAAACEuVUAMJCDWiAzN1CxTgMA5kYAbvE3
+lwAAuMnfZwIAAABucUgAMJAb0UBFQhPWagDAfAjQm//4AQZzaAVU5iAB6zQAYCYE6OeXnwAAgFcd
+x/HhcB4AAAB6casAYAIHr0Anbq5ijQYA8x8Atf3nJwAA4EyfD+sdNAAAAEA94hIAAMNcvwoRmwAA
+ACA/m3uASXx2B+AroQnrMwCY6wDIycslAACW8Pk8AAAAyMkmHmAit6MBfiY0YW0GAPMbAHvzcgkA
+gK140QQAAAB7s1kHmMwNaYDXiU1YlwHAjAbAev7jB5jMIRbAORxiYG0GAHMZAGv4jx9gAYdYAOdy
+oIF1GQDMYgDM428uAQCQ3nUccMABAAAA49h0AyziljTAPGIT1mQAMGsBcB4vlwAAKO9zPHD4AQAA
+AO+xsQZYyE1pgPXEJqzHAGCeAuA5Xi4BANCav9cEAAAAz7FxBljMbWmAvYlN1mIAwLwEwFf+4wdY
+zIEWQC4OT6zHAID5CKA7//EDbMCBFkBeDlOsxQBgHjIPAXTjby4BAMAbbkUJBywAAABUZtMLsAk3
+pgHqEpuswwBg1gGgEi+XAABgMK+bAAAAqMSGFmAjbk0D9CY4WYMBwAwDQAb+4wfYiIMtAK45rLEO
+A4B5BYDd+I8fYDMOtgD4iQMcazAAmE0AWMl//AAbcrgFwLMc6lh/AcAcAsAs//kJAAAgv3thxGEP
+AAAAZ7PRBNiU29MAjCQ6WXsBwFwBwKu8XAIAgIYehRQHRAAAADxi0wiwMTeoAdhN9fBk7QUA8wEA
+P/MfP8DmHHIBkEWFgyXrLgD0nAEAeI7P4gEAAKeIhBmHTwAAAPnZ2AEk4BY1AJ2sDFDWXADItXYD
+sIb/+AEScNAFALeNOMyy7gLA+vUYgL35jx8gCQddAHCOnw7ArLkAcO7aCkA9/uMHSMRhFwAAALsR
+lwD6+eUnAAAAAAAAIEpcAkjEbTAAAAAAYDVxCSAZgQkAAAAAWElcAgAAAAAAIExcAkjI6yUAAAAA
+YBWHkwCJHcfx4VcAAABgFZcfAXrycgkAAAAAAIAwcQkgMTfEAAAAAIDZxCWA5AQmAAAAAGAmcQkA
+AAAAAIAwcQmgAK+XAAAAAIBZxCWAIgQmAAAAAGAGcQmgEIEJAAAAABhNXAIAAAAAACBMXAIoxusl
+AAAAAGAkcQmgIIEJAAAAABhFXAIoSmACAAAAAEYQlwAAAAAAAAgTlwAK83oJAAAAADibuARQnMAE
+AAAAAJxJXAJoQGACAAAAAM7isBGgkeM4PvwKAAAAnMFFRoC+vFwCAAAAAAAgTFwCaMStMgAAAADg
+XeISQDMCEwAAAADwDnEJoCGBCQAAAAB4lbgE0JTABAAAAAC8QlwCaExgAgAAAACeJS4BNCcwAQAA
+AADPEJcAEJgAAAAAgDBxCQAAAAAAgDBxCYDL5eL1EgAAAAAQIy4B8JfABAAAAAD8xCEiAN8cx/Hh
+VwAAAOAelxMBevNyCQCbBAAAAAAgTFwC4CaBCQAAAAC4RVwC4C6BCQAAAAC4Ji4B8JDABAAAAAB8
+Ji4BXDmO4+M4jg+/xD8CEwAAAADwh7gEcIfI9JXABAAAAABcLuISwI9Epn8EJgAAAABAXAIIEpl+
+E5gAAAAAoDcHhABXogGpe2QR2gAAAHpy6RAAL5cAXtT9JZPNBAAAAAD0JC4B8g7I+AAAIABJREFU
+vKlzZBKYAAAAAKAfcQngJF0jk8AEAAAAAL04EAS4cmYg6hRe/A0mAACAHlwyBMBCAHBlRCQRmQAA
+AKhCXALAZ/EAJuj0yTybDAAAAACozQEgwJVZEah6hPGCCQAAoCaXCgHwcglgkeqvmWw2AAAAAKAm
+B38AV1YGn4pBxgsmAACAOlwkBOBy8XIJYCsVXzPZeAAAAABALQ78AK7sFneqxBkvmAAAAPJzgRCA
+y0VcAvhm5whSYYgXmQAAAPISlwC4XMQlgG+yxI/MA73ABAAAkJO4BMDlIi4BfJMxfGQc7gUmAACA
+fMQlAC4XcQngm+zRI9OgLzABAADYcwKQj8UA4Eq14JFh8BeZAAAA7DEByMNiAHBD5dix60ZAYAIA
+ALCfBCAHCwLADZ1Cx06bA4EJAADA/hGA/VkQAG7oHDl22CyITAAAAPaLAOzLggBwg7ixfgPh3wAA
+AMDeEIA9WRAAbhA29thU+HcAAADotQ8EIAcLAsANosZemw3/HgAAADX3ewDkZEEAuEHM2G8z4t8E
+AAAg534OgHosCAA3CBn7bl782wAAAKzfmwHQ239+AgB2JiYBAAAAwF5++QkAAAAAAACIEpcAbvDc
+HwAAAADgNnEJAAAAAACAMHEJAAAAAACAMHEJAAAAAACAMHEJAAAAALjL3yUG4Jq4BAAAAAAAQJi4
+BAAAAAAAQJi4BAAAAAAAQJi4BHCHb0oDAAAAAHwnLgEAAAAAABAmLgEAAAAAN/mqBwC3iEsAAAAA
+AACEiUsAAAAAAACEiUsAAAAAAACEiUsAD/i2NAAAAADAV+ISAAAAAAAAYeISAAAAAPCNr3kAcI+4
+BAAAAAAAQJi4BAAAAAAAQJi4BPADnwEAAAAAAPhHXAIAAAAAACBMXAIAAAAAvvAVDwAeEZcAAAAA
+AAAIE5cAAAAAAAAIE5cAAnwOAAAAAADgN3EJAAAAAACAMHEJAAAAAACAMHEJAAAAAPjLp+EB+Im4
+BGC4BgAAAAAIE5cAAAAAAAAIE5cAAAAAAAAIE5cAAAAAAAAI8/dDAJ50HMeHXwEAAICK/L1hACK8
+XAIAAAAAACBMXAIAAAAAACBMXAIAAAAAACBMXAJ4ku9PAwAAAACdiUsAAAAAgMuUAISJSwAAAAAA
+AISJSwAvcJsLAAAAAOhKXAIAAAAAACBMXAIAAACA5nyhA4BniEsABm8AAAAAgDBxCQAAAAAAgDBx
+CQAAAAAAgDBxCQAAAAAAgDB/LwTgTcdxfPgVAAAAyMrfFAbgWV4uAQAAAAAAECYuAQAAAAAAECYu
+AbzJ5wMAAAAAgE7EJQAAAABoyoVJAF4hLgEYxgEAAAAAwsQlAAAAAAAAwsQlAAAAAAAAwsQlgJP4
+NB4AAAAA0IG4BAAAAAANuSQJwKvEJQAAAAAAAMLEJYATufUFAAAAAFQnLgEAAAAAABDmhj3AAMdx
+fPgVAAAA2JUvbwDwDi+XAAAAAAAACBOXAAAAAAAACBOXAAbweQEAAAAAoCpxCQAAAAAacSESgHeJ
+SwCGdQAAAACAMHEJAAAAAACAMHEJYCCvlwAAAACAasQlAAAAAGjCJUgAziAuAQAAAAAAECYuAQzm
+VhgAAAAAUIm4BAAAAAAAQJjb9ACTHMfx4VcAAABgFV/WAOAsXi4BAAAAAAAQJi4BTOKGGAAAAABQ
+gbgEAAAAAMW58AjAmcQlAMM8AAAAAECYuAQAAAAAAECYuAQwmddLAAAAAEBm4hIAAAAAFOaSIwBn
+E5cADPYAAAAAAGHiEgAAAAAAAGHiEsAiXi8BAAAAABmJSwAAAABQlIuNAIwgLgEY8gEAAAAAwsQl
+AAAAAAAAwtyYB9jAcRwffgUAAADO5GsZAIzi5RIAAAAAAABh4hLABtwmAwAAAACyEJcANiEwAQAA
+AAAZiEsAAAAAUIwLjACMJC4BGP4BAAAAAMLEJQAAAAAAAMLckAfY0HEcH34FAAAAXuGrGACM5uUS
+gI0AAAAAAECYuAQAAAAAAECYuASwKa+XAAAAAIAdiUsAAAAAUISLigDMIC4B2BQAAAAAAISJSwCb
+E5gAAAAAgJ2ISwAAAABQgMuJAMwiLgHYIAAAAAAAhIlLAEkITAAAAADADsQlAAAAAEjOhUQAZhKX
+AGwWAAAAAADCxCWAZAQmAAAAAGAlcQkAAAAAEnMJEYDZxCUAGwcAAAAAgDBxCSApgQkAAAAAWEFc
+AgAAAICkXDwEYAVxCcAmAgAAAAAgTFwCSE5gAgAAAABmciAJUMRxHB9+BQAAgD5cNgRgFS+XAAAA
+AAAACBOXAIpwYw0AAAAAmEFcAihEYAIAAAAARnMICVCQv78EAABQm8uFAKzk5RIAAAAAAABhbjgA
+FOX1EgAAQE1eLQGwmpdLADYbAAAAAABh4hJAYQITAAAAAHA2h44ADfhEHgAAQA0uEQKwAy+XAAAA
+AAAACBOXABpwsw0AAAAAOIvDRoBGfB4PAAAgLxcHAdiFl0sANiIAAAAAAGHiEkAzAhMAAAAA8A4H
+jABN+UQeAABAHi4KArATL5cAbEwAAAAAAMLEJQAAAAAAAMLcWgdozufxAAAA9ubLEwDsxsslAJsU
+mxQAAAAAIExcAkBgAgAAAADCHCYC8JdP5AEAAOzFZUAAduTlEgA2LQAAAABAmLgEwBcCEwAAAADw
+iANEAG7yiTwAAIC1XP4DYFdeLgFgEwMAAAAAhDk4BOAhL5gAAADmc+EPgJ15uQSADQ0AAAAAECYu
+AfAjgQkAAAAA+MNhIQBhPpEHAAAwngt+AOzOyyUAbHAAAAAAgDBxCYCnCEwAAAAA0JsDQgBe4hN5
+AAAA53OhD4AMvFwCwIYHAAAAAAhzMAjAW7xgAgAAOIdLfABk4eUSADY/AAAAAECYA0EATuMVEwAA
+wOtc3gMgCwsWAKcSmAAAAJ4nLAGQic/iAWBDBAAAAACEOQAEYAgvmAAAAGJc0gMgGy+XALA5AgAA
+AADCxCUAhhGYAAAAAKAeh34ATOEzeQAAAN+5lAdARl4uAWDDBAAAAACEOegDYCovmAAAAH5zCQ+A
+rLxcAsDmCQAAAAAIc8AHwDJeMQEAAJ25fAdAVhYwAJYSmAAAgI6EJQAy81k8AGyoAAAAAIAwB3oA
+bMMrJgAAoAOX7ADIzsslAGywAAAAAIAwcQmArQhMAAAAALA3B3gAbMtn8gAAgGpcqAOgAi+XALDp
+AgAAAADCHNoBkIJXTAAAQHYu0AFQhZdLANiEAQAAAABhDuoASMcrJgAAIBsX5gCoxMslAGzKAAAA
+AIAwh3MApOYVEwAAkIFLcgBUYlEDID2BCQAA2JmwBEA1FjYAyhCZAACAHYlLAFRjYQOgFIEJAADY
+ibAEQEUWNwBKEpkAAIAdiEsAVGRxA6A0kQkAAFhFWAKgKgscAC2ITAAAwGziEgBV/fITAGBTBwAA
+AABEOWgDoB2vmAAAgNFccAOgMoscAG2JTAAAwCjiEgCVWeQAaE9kAgAAziQsAVCdhQ4A/k9kAgAA
+ziAuAVCdhQ4ArohMAADAq4QlADqw2AHAHSITAADwLHEJgA4sdgDwA5EJAACIEJYA6MKCBwBBIhMA
+APCIuARAFxY8AHiSyAQAANwiLgHQhQUPAF4kMgEAAH8ISwB0YtEDgBMITQAA0Ju4BEAnFj0AOJHI
+BAAA/QhLAHRj4QOAAUQmAADoQ1wCoBsLHwAMJjQBAEBdwhIAHVn8AGAioQkAAGoRlwDoyOIHAAuI
+TAAAkJ+wBEBXFkAAWExoAgCAnMQlALqyAALARoQmAADIQVgCoDOLIABsSmgCAIB9iUsAdGYRBIAE
+hCYAANiHsARAdxZCAEhIbAIAgHXEJQC6sxACQAFiEwAAzCEsAYC4BADlCE0AADCOuAQA4hIAtCA4
+AQDA+4QlAPjNgggAjYhMAADwOnEJAH6zIAJAYWISAACcQ1gCgH/+8xMAQB1iEgAAAACjuXEBAEkJ
+SQAAMIdXSwDwlZdLAAxxK3zYkJ37ewIAAADACg75ABjimRgiOj3/mwEAAHPYrwDAd14uAbDcT1Gl
+ymZOPAIAAACgAjcvABhmVUyZFaPEIgAAqM2rJQC4zcslAMoRfQAAAABgnF9+AgAAAAD4yqslALhP
+XALAZgwAAAAACBOXAAAAAOATF+UA4DFxCQAAAAAAgDC3MAAY7jiOD78CAACQgVdLAPAzL5cAAAAA
+AAAIcxMDgCm8XgIAAHbn1RIAxHi5BAAAAAAAQJi4BAAAAEB7Xi0BQJy4BICNGgAAAAAQJi4BAAAA
+0JrLcADwHHEJAAAAAACAMLcyAJjqOI4PvwIAALALr5YA4HleLgEAAAAAABDmZgYA03m9BAAA7MCr
+JQB4jZdLAAAAAAAAhLmdAcASXi8BAAArebUEAK/zcgkAAAAAAIAwcQkAAACAVrxaAoD3WEgBWMan
+8QAAgNmEJQB4n5dLAAAAAAAAhLmpAcBSXi8BAACzeLUEAOfwcgkAAAAAAIAwtzUAWM7rJQAAYDSv
+lgDgPF4uAQAAAAAAEObGBgBb8HoJAAAYxaslADiXl0sAAAAAAACEubUBwDa8XgIAAM7m1RIAnM/L
+JQAAAABKEpYAYAxxCQAbPwAAAAAgTFwCAAAAoByX1wBgHHEJABtAAAAAACBMXAIAAACgFJfWAGAs
+cQkAG0EAAAAAIExcAgAAAKAMl9UAYDyLLQDbOo7jw68AAABECUsAMIeXSwAAAAAAAIS5zQHA1rxe
+AgAAIrxaAoB5vFwCAAAAAAAgzI0OALbn9RIAAPCIV0sAMJeXSwDYKAIAAAAAYeISAAAAAGm5jAYA
+81l8AUjD5/EAAIDPhCUAWMPLJQAAAAAAAMLc7gAgFa+XAACAy8WrJQBYycslAGwgAQAAAIAwcQkA
+AACAVFw6A4C1LMQApOTzeAAA0JOwBADrebkEAAAAAABAmJseAKTl9RIAAPTi1RIA7MGCDEBqAhMA
+APQgLAHAPnwWDwAAAAAAgDA3PgBIz+slAACozaslANiLl0sA2GgCAAAAAGHiEgAAAADbcpkMAPZj
+cQagDJ/HAwCAWoQlANiTl0sA2HgCAAAAAGHiEgAAAADbcXkMAPZlkQagHJ/HAwCA3IQlANibl0sA
+2IgCAAAAAGHiEgAAAADbcFkMAPYnLgFgQwoAAAAAhDl4A6A0f38JAADycEkMAHKwYANQnsAEAAD7
+E5YAIA+fxQMAAAAAACDMjRAAWvB6CQAA9uXVEgDkYuEGoA2BCQAA9iMsAUA+PosHgE0rAAAAABAm
+LgEAAACwhAtgAJCTBRyAdnweDwAA1hOWACAvL5cAsIkFAAAAAMIcrgHQlhdMAACwhgtfAJCbhRyA
+1gQmAACYS1gCgPx8Fg8AAAAAAIAwN0UAaM/rJQAAmMOrJQCowYIOABeBCQAARhOWAKAOn8UDABtd
+AAAAAAhzkAYAn3jBBAAA53OZCwBqsbADwBWBCQAAziMsAUA9PosHADa/AAAAABDm8AwA7vCCCQAA
+3uPiFgDU5OUSAAAAAKcTlgCgLnEJAGyGAQAAACDMoRkA/MDn8QAA4DkuagFAbRZ6AAgQmAAAIEZY
+AoD6LPYAECQwAQDAY8ISAPTgby4BgI0yAAAAAIQ5JAOAJ3nBBAAA37mMBQB9WPQB4AUCEwAA/CMs
+AUAvPosHADbPAAAAABDmYAwA3uAFEwAA3bl4BQD9WPwB4E0CEwAAXQlLANCTAQAATiAwAQDQjbAE
+AH35m0sAYGMNAAAAAGEOwgDgRF4wAQDQgctVANCbQQAATiYwAQBQmbAEAPgsHgDYbAMAAABAmMMv
+ABjECyYAAKpxkQoAuFzEJQAYTmQCAKACYQkA+MNQAAATCEwAAGQmLAEAn/mbSwBgMw4AAAAAYQ66
+AGAiL5gAAMjGRSkA4JrhAAAmE5gAAMhCWAIAbjEgAMACAhMAALsTlgCAewwJALCQyAQAwK7EJQDg
+HkMCACwmMAEAsBthCQB4xKAAABsQmAAA2IWwBAD8xLAAAJsQmAAAWE1YAgAiDAwAsBmRCQCAVcQl
+ACDCwAAAGxKYAACYTVgCAKIMDQCwKYEJAIBZhCUA4BkGBwDYmMAEAMBowhIA8CzDAwAkIDIBADCC
+sAQAvOKXnwAAbPoBAAAAIMpBFQAk4xUTAABncIEJAHiVIQIAEhKYAAB4h7AEALzDIAEASQlMAAC8
+QlgCAN5lmACA5EQmAACihCUA4Ay//AQAkJsDAgAAAABmchgFAIV4xQQAwD0uJQEAZzFUAEAxAhMA
+ANeEJQDgTAYLAChKZAIA4HIRlgCA8xkuAKAwgQkAoDdhCQAYwYABAA2ITAAAPYlLAMAIBgwAaERk
+AgDoQ1gCAEYxZABAMwITAEB9whIAMJJBAwCaEpkAAGoSlgCA0QwbANCcyAQAUIewBADMYOAAAC6X
+i8gEAFCBuAQAzGDgAAD+EpgAAPISlgCAWQwdAMA3IhMAQC7CEgAwk8EDALhLZAIA2J+wBADMZvgA
+AH4kMgEA7ElYAgBWMIAAAGEiEwDAPoQlAGAVQwgA8DSRCQBgLWEJAFjJIAIAvExkAgBYQ1wCAFYy
+iAAAbxOZAADmEZYAgNUMIwDAaUQmAICxhCUAYAcGEgBgCKEJAOBcwhIAsAtDCQAwlMgEAPA+YQkA
+2InBBACYQmQCAHiNsAQA7MZwAgBMJzQBAMQISwDAjgwoAMAyIhMAwGPiEgCwIwMKALAFoQkA4Cth
+CQDYlSEFANiO0AQAdCcsAQA7M6gAAFsTmgCAboQlAGB3hhUAIA2hCQCoTlgCADIwsAAAKQlNAEA1
+whIAkIWhBQBIT2gCALITlgCATAwuAEA5YhMAkImwBABkY3gBAEoTmgCAnQlLAEBGBhgAoBWxCQDY
+ibgEAGRkgAEA2hOcAIAVhCUAICtDDADAFbEJABhNWAIAMjPIAAAEiU4AwBmEJQAgO8MMAMCbRCcA
+IEpYAgAqMNAAAAwkPAEAfwhLAEAVhhoAgE0IUQBQl7AEAFRisAEASEaEAoBchCUAoBrDDQBAIsIS
+AOQiLAEAFRlwAACSEJYAIBdhCQCoypADALA5UQkA8hGWAIDKDDoAABsTlgAgH2EJAKjOsAMAsClh
+CQDyEZYAgA4MPAAAmxGVACAnYQkA6MLQAwCwEWEJAHISlgCATgw+AACbEJYAICdhCQDoxvADALCY
+qAQAeQlLAEBHBiAAgIWEJQDIS1gCALoyBAEALCAqAUBuwhIA0JlBCABgMmEJAHITlgCA7gxDAAAT
+CUsAkJuwBAAgLgEATCEqAUB+whIAwG+GIgCAwYQlAMhPWAIA+MdgBAAwiKgEADUISwAAXxmOAAAG
+EJYAoAZhCQDgOwMSAMCJRCUAqENYAgC4zZAEAHASYQkA6hCWAADuMygBALxJVAKAWoQlAIDHDEsA
+AG8QlgCgFmEJAOBnBiYAgBeISgBQj7AEABBjaAIAeJKwBAD1CEsAAHEGJwCAIFEJAGoSlgAAnmN4
+AgAIEJYAoCZhCQDgeQYoAIAHRCUAqEtYAgB4jSEKAOAOYQkA6hKWAABeZ5ACALgiKgFAbcISAMB7
+DFMAAP8nKgFAfcISAMD7DFQAABdhCQA6EJYAAM5hqAIAWhOVAKAHYQkA4DwGKwCgJVEJAPoQlgAA
+zmW4AgDaEZYAoA9hCQDgfAYsAKANUQkAehGWAADGMGQBAOWJSgDQj7AEADCOQQsAKE1YAoBeRCUA
+gPEMXABASaISAPQjLAEAzGHoAgBKEZUAoCdhCQBgHoMXAFCCqAQAfQlLAABzGb4AgNREJQDoTVgC
+AJjPAAYApCUsAUBvwhIAwBqGMAAgHVEJABCWAADWMYgBAGmISgDA5SIsAQCsZhgDALYnKgEAl4uo
+BACwC0MZALAtUQkA+ENYAgDYh8EMANiOqAQAfCYsAQDsxXAGAGxDVAIArglLAAD7MaABAMuJSgDA
+LcISAMCeDGkAwDKiEgBwj7AEALAvgxoAMJ2oBADcIyoBAOzPwAYATCMqAQCPCEsAADkY2gCA4UQl
+AOAnwhIAQB4GNwBgGFEJAIgQlgAAcjG8AQCnE5UAgChhCQAgHwMcAHAaUQkAeIawBACQkyEOAHib
+qAQAPENUAgDIzTAHALxMVAIAniUsAQDkZ6ADAJ4iKAEArxKWAABqMNQBACGiEgDwDmEJAKAOgx0A
+8JCoBAC8Q1QCAKjHgAcAfCMoAQBnEJYAAGoy5AEAf4lKAMBZhCUAgLoMegCAqAQAnEpYAgCozbAH
+AE0JSgDA2UQlAIAeDH0A0IyoBACMICwBAPRh8AOABgQlAGAkYQkAoBfDHwAUJioBAKMJSwAA/RgA
+AaAYQQkAmEFUAgDoyyAIAAUISgDATMISAEBvhkEASExUAgBmE5YAADAQAkAyghIAsIKoBADAHwZD
+AEhAUAIAVhKWAAD4zHAIAJsSlACAHQhLAABcMyACwEYEJQBgF6ISAAD3GBQBYDFBCQDYjbAEAMAj
+hkUAWEBQAgB2JSwBAPATAyMATCIoAQA7E5UAAIgyOALAQIISAJCBsAQAwDMMjwBwMkEJAMhEWAIA
+4FkGSAB4k5gEAGQkKgEA8CqDJAC8QFACADITlgAAeIdhEgACxCQAoAJRCQCAMxgqAeAGMQkAqEZY
+AgDgLAZLALiISQBAbcISAABnMlwC0JKYBAB0ICoBADCCIROAFsQkAKAbYQkAgFEMmgCUJCYBAF2J
+SgAAjGbgBCA9IQkA4DdhCQCAGQydAKQjJgEAfCcsAQAwi8ETgK0JSQAAj4lKAADMZgAFYAsiEgDA
+84QlAABWMIQCMJ2QBADwHlEJAICVDKMADCEgAQCMISwBALCagRSAt4hIAABziEoAAOzCYArAQ+IR
+AMB6whIAADsxnALD/BQlbJD3/zcCAGAtMzMAADsypAJDnREvbKjn/+YAAKxnDgYAYFcGVWCKlcEj
+46ZcIAIA6EtUAgBgdwZWYBrBBAAAHhOWAADIwNAKTCcyAQDAV6ISAACZGF6BZUQmAAC6E5UAAMjI
+EAssJTABANCVsAQAQFYGWWALIhMAAF2ISgAAZGegBbYhMAEAUJ2wBABABYZaYDsiEwAA1YhKAABU
+YrgFtiUyAQCQnagEAEBFhlxgawITAABZCUsAAFRl0AVSEJkAAMhCVAIAoDoDL/yvPfs6bisKgijI
+/KPWh6iiQALEM9es6Y5ipg6piEwAAEQlKgEA0IXhC6QjMAEAEI2wBABAJ8YvkJbIBADAbqISAAAd
+GcFAeiITAACriUoAAHRmDANliEwAAKwgLAEA0J1BDJQiMAEAMIuoBAAAfxnGQEkiEwAAo4hKAADw
+yEAGShOZAAC4Q1gCAICfjGSgBZEJAIAzRCUAAHjNWAbaEJgAAHhHVAIAgPeMZqAdkQkAgO9EJQAA
+OM54BtoSmQAA+PgQlgAA4CwDGmhPZAIA6ElUAgCAawxpgE8iEwBAD6ISAADcY1ADfCMyAQDUJCoB
+AMAYhjXAEwITAEAdohIAAIxlYAP8QmQCAMhLVAIAgDkMbYADRCYAgDxEJQAAmMvgBjhBZAIAiE1Y
+AgCA+YxugAtEJgCAWEQlAABYx/gGuEFkAgDYS1QCAID1jHCAAUQmAIC1RCUAANjHGAcYSGQCAJhL
+VAIAgP2McoAJRCYAgLFEJQAAiMM4B5hIZAIAuEdUAgCAeIx0gAVEJgCAc0QlAACIy1gHWEhkAgD4
+nagEAADxGe0AG4hMAACPRCUAAMjDeAfYSGQCALoTlQAAIB8jHiAAkQkA6EZUAgCAvIx5gGCEJgCg
+KkEJAABqMOwBghKZAIAqRCUAAKjFwAcITmQCALISlQAAoCZDHyAJkQkAyEJUAgCA2gx+gGREJgAg
+KlEJAAB6MPwBEhOaAIAIRCUAAOjFAQAoQGQCAFYTlAAAoC9nAKAQkQkAmE1UAgAAnAKAgkQmAGA0
+UQkAAPjHOQAoTmgCAK4SlAAAgGccBYAmRCYA4ChRCQAA+I3DANCMyAQAvCIqAQAARzgOAI0JTQCA
+oAQAAJzlRAAgMgFAQ6ISAABwlTMBwAOhCQBqE5UAAIC7nAoAnhKZAKAOQQkAABjJwQDgLaEJAHIS
+lQAAgBkcDQAOE5kAID5BCQAAmM3pAOASoQkA4hCUAACAlRwQAG4RmQBgH1EJAADYwREBYBihCQDm
+E5QAAIDdnBIAphCaAGAcQQkAAIjEQQFgKpEJAK4TlQAAgIgcFQCWEZoA4D1BCQAAiM5pAWALoQkA
+vghKAABAJg4MANsJTQB0JCgBAABZOTMAhCI0AVCZoAQAAFTg2AAQltAEQAWCEgAAUI2TA0AKQhMA
+mQhKAABAZQ4PAOkITQBEJCgBAABdOD8ApCY0AbCToAQAAHTkCAFQhtAEwAqCEgAA0J1TBEBJQhMA
+IwlKAAAAXxwkAMoTmgC4QlACAAB4zlkCoBWhCYBXxCQAAIBjnCcAWhObAHoTlAAAAM5zpADgk9AE
+0IOgBAAAcI9TBQAviE0ANYhJAAAAYzlZAHCA0ASQh5gEAAAwl9MFABeITQCxCEoAAADrOGAAcJPQ
+BLCemAQAALCPQwYAg4lNAOOJSQAAAHE4aAAwmdgEcJ6YBAAAEJfDBgCLiU0AP4lJAAAAeThwALCZ
+2AR0JCYBAADk5dABQDBiE1CRmAQAAFCHgwcACQhOQCZCEgAAQG1OHwAkJDYBUQhJAAAA/TiCAFCE
+4ASsICYBAADgGAJAYYITcIeQBAAAwDPOIgA0IzgBzwhJAAAAHOVAAgCCEzQiIgEAAHCXYwkAvCQ6
+QV4iEgAAALM4nADAKYITxCIiAQAAsJojCgAMITrBXCISAAAAUTioAMB0whMcIyABAACQgfMKAGwl
+PNGNgAQAAEB2ji0AEJbwREbiEQAAANU5vgBAagIUq4lHAAAAdOcYAwDlCVAcIRoBAADAMQ40AMB/
+hKg6xCIAAACYw+EGABhAlJpHJAIAAIBYHHUAgMAyRCvxBwAAAAAAAACSAvEeAAAJ+UlEQVQAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKCLPz4ANipZiubDAAAAAElFTkSuQmCC
+
+"
+       preserveAspectRatio="none"
+       height="8.3069124"
+       width="8.1946363" />
+    <image
+       y="274.12903"
+       x="21.251726"
+       id="image2636"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAYAAAA+s9J6AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA
+B3RJTUUH4wQHESQlk1uhUwAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAAJC
+SURBVHja7dyLCYQwFEVBI1aU/mtIS9cKBPEb40wDC2EPL7jrK0km4D2zIwARgggBEYIIARGCCAER
+gggBEYIIARGCCAERgggBEYIIARGCCAERgggBEYIIARGCCAERgggBEYIIARGCCAERgggBEYIIARGC
+CAERgggBEYIIARGCCAERgggBEYIIARGCCAERQtcWRzCGWmve+NzWWnH6IhQfIkR8iFB8fJYHMwLE
+JER8JiECRIQIUIQIEBGCCDEFESECFCEgQlMQEQIiBBHiKooIQYSACF1FESEgQhibl3p/xGY0kxAB
+IkIQIaYgIgQRAiIEEQIiBBECIgQRgggdAYgQRAiIEEQIiBBECIgQfseOmYscXVv41Au3d6xV9LLw
+NUpi5WWPX/CvEKLrKIgQECGuoiIERAgiBEQIIgRECCIERAgiBEQIImRs/rImQhAhIEIQISBCECFw
+jkVPHbh7UZSfE0xCQIQgQkCEIEJAhCBCQIQgQkCEIEJAhCBCQIQgQhChIwARgggBEYIIARGCCAER
+gggBEYIIARGCCAERgggBEYIIARGCCAERgggBEYIIARGCCAERgggBEYIIARGCCAERgggBEYIIARGC
+CAERgggBEYIIARGCCIH9ShKnACYhiBAQIYgQECGIEBAhiBAQIYgQECGIEBAhiBAQIYgQECGIEBAh
+iBAQIYgQECGIEBAhiBAQIYgQECGIEBAhiBAQIYgQECGIEBAhiBAQIYgQECGIEBAhiBAQIYgQECGI
+EBAhiBDYsAIzOEJpVwQpywAAAABJRU5ErkJggg==
+"
+       preserveAspectRatio="none"
+       height="9.8014011"
+       width="9.8014011" />
+  </g>
+</svg>

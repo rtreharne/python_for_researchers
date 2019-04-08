@@ -37,6 +37,17 @@ button.btn.btn-primary {
   color: #4f3c50
 }
 
+button.btn.btn-primary:hover {
+  background-color: #c19cc3;
+  border-color: #c19cc3;
+}
+
+button.btn {
+  width: 200px;
+  height: 50px;
+  margin: 5px 0;
+}
+
 section img {
   width: 100%;
   padding: 5%;
@@ -46,8 +57,37 @@ h3 {
   padding: 10px 0px;
 }
 
+.fab {
+  font-size: 3em;
+  margin: 10px;
+}
+
+.button-box a {
+  outline: none;
+  text-decoration: none;
+}
+.button-box a:hover,a:click, a:visited {
+  border:none;
+  outline:none;
+  text-decoration:none;
+}
+
+.social-box a {
+  outline: none;
+  text-decoration: none;
+}
+
+
 @media only screen and (max-width: 800px) {
   .vcenter {
     padding: 5% 10%;
+  }
+  .banner {
+    text-align: center;
+  }
+  .col-md-12, .col-md-6, .col-md-4, .col-md-5, .col-md-7, .colmd-3 {
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 90%;
   }
 }
