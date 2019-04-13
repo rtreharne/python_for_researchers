@@ -57,7 +57,7 @@ h3 {
   padding: 10px 0px;
 }
 
-.fab {
+.fab, .fas {
   font-size: 3em;
   margin: 10px;
 }
